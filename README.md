@@ -50,12 +50,6 @@ To run Apex Legends (DMA) you will need:
 * 🧠 DMA-compatible hardware
 * 🖥️ Secondary processing PC
 * 🔧 Compatible DMA firmware
-* 🔑 A valid access key
-
-⚠️ **Key Requirement**
-
-A key is required to run the software.
-Keys are distributed through the **community Discord server**.
 
 ---
 
@@ -75,7 +69,6 @@ Always download the **latest version** before running the software.
 
 Join the Discord server for:
 
-* 🔑 Access keys
 * 📢 Updates & announcements
 * 🆘 Support
 * 💬 Community discussions
